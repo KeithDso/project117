@@ -1,0 +1,20 @@
+body {
+    background-color: greenyellow;
+}
+
+#score{
+    font-size: 70px;
+    margin-left: 30px;
+    float:left;
+}
+
+#timer{
+    margin-right: 30px;
+    float:right;
+    font-size: 70px;
+}
+
+#sketchdrawn{
+    text-decoration-color: blue;
+}
+    
